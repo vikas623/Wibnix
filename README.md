@@ -9,6 +9,7 @@ Wibnix is a simple blogging app. Its runs on the Django Framework.
 Requirement
 
 Any system with python 3 and terminal.
+
 Usage:
 
     Navigate to the cloned repository.
