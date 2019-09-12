@@ -12,6 +12,6 @@ Any system with python 3 and terminal.
 
 Usage:
 
-    Navigate to the cloned repository.
-    Install Django
-    Run python manage.py runserver
+    -> Navigate to the cloned repository.
+    -> Install Django
+    -> Run python manage.py runserver
